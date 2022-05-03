@@ -10,3 +10,10 @@ Return an array, where the first element is the count of positives numbers and t
 If the input is an empty array or is null, return an empty array.
 ### Example :
 For input [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, -11, -12, -13, -14, -15], you should return [10, -65].
+
+
+ 3 - Johnny is working as an intern for a publishing company, and was tasked with cleaning up old code. He is working on a program that determines how many digits are in all of the page numbers in a book with pages from 1 to n (inclusive).
+For example, a book with 4 pages has 4 digits (one for each page) while a 12-page book has 15 (9 for 1-9, plus 2 each for 10, 11, 12).
+Johnny's boss, looking to futureproof, demanded that the new program be able to handle books up to 400,000,000,000,000,000 pages.
+### Lien : https://www.codewars.com/kata/55905b7597175ffc1a00005a
+
